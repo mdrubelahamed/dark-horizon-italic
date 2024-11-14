@@ -1,0 +1,38 @@
+{
+    "name": "dark-horizon-italic",
+    "displayName": "dark-horizon-italic",
+    "description": "Inspired by dark horizon theme, it's an 'italic' version of that theme.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.95.0"
+    },
+    "keywords": [
+        "dark horizon italic",
+        "dark horizon",
+        "italic theme",
+        "italic",
+        "horizon",
+        "horizon theme",
+        "dark horizon",
+        "dark horizon theme",
+        "black",
+        "black theme",
+        "red",
+        "red theme",
+        "high contrast",
+        "elegant",
+        "elegant theme"
+    ],
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dark Horizon Italic",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dark Horizon Italic-color-theme.json"
+            }
+        ]
+    }
+}
