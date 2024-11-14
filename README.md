@@ -2,7 +2,7 @@
 
 ### _Theme look italic way_
 
-![Theme Look](../dark-horizon-italic/images/codesnap.png)
+![Theme Look](/images/codesnap.png)
 
 We can connect here: [Twitter](https://x.com/rubelverse)
 
