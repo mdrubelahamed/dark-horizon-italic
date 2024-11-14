@@ -1,7 +1,8 @@
 {
     "name": "dark-horizon-italic",
+    "publisher": "venom-rex",
     "displayName": "dark-horizon-italic",
-    "description": "Inspired by dark horizon theme, it's an 'italic' version of that theme.",
+    "description": "An italic version of the Dark Horizon theme.",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.95.0"
@@ -12,19 +13,13 @@
     },
     "keywords": [
         "dark horizon italic",
-        "dark horizon",
         "italic theme",
         "italic",
         "horizon",
         "horizon theme",
         "dark horizon",
-        "dark horizon theme",
-        "black",
         "black theme",
-        "red",
-        "red theme",
         "high contrast",
-        "elegant",
         "elegant theme"
     ],
     "categories": [
@@ -38,5 +33,6 @@
                 "path": "./themes/Dark Horizon Italic-color-theme.json"
             }
         ]
-    }
+    },
+    "icon": "icon.png"
 }
